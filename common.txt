@@ -1,0 +1,5 @@
+admin
+login
+uploads
+backup.zip
+config.php
