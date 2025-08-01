@@ -1,0 +1,8 @@
+python-nmap
+requests
+beautifulsoup4
+tldextract
+colorama
+lxml
+urllib3
+certifi
